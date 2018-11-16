@@ -1,0 +1,6 @@
+comment = 'Data tiling for space and other data Copyright Manuel Pavy'
+default_version = '0.1'
+relocatable = false
+superuser = false
+
+
